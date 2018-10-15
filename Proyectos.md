@@ -22,7 +22,7 @@ Propuestas:
 Juego de android/pc basado en los juegos "gacha"; juegos donde los usuarios gastan monedas para conseguir los distintos personajes de forma aleatoria
 1.3 - Objetivo
 Creación de pantalla principal con botón de start; esta pantalla sirve simplemente para presentar el juego y como posible pantalla de carga si hubiera actualizaciones.
-Crear menú principal donde se muestran las unidades conseguidas, un pequeño modo de juego sencillo donde se usan las unidades, un menú donde sacar las unidades (8~16 unidades).
+Crear menú principal donde se muestran las unidades conseguidas, un pequeño modo de juego sencillo donde se usan las unidades, un menú donde sacar las unidades (de 8 a 16 unidades).
 El menú principal tendrá acceso a las unidades conseguidas, donde se podrá ver su nivel, sus estadísticas y sus habilidades.
 El modo de juego se basará en una pequeña campaña con varias fases donde se enfrentará a un enemigo a base de combates con sus unidades. Los combates serán estilo RPG.
 Cada batalla reportará al jugador monedas del juego con las que podrá comprar varias cosas, entre ellas la posibilidad (aleatoria) de nuevas unidades. Adicionalmente,
