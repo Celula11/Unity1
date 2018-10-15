@@ -56,27 +56,27 @@ serán atraídos también solo por el género del juego. Adicionalmente, usaremo
 
 1.5 - Competencia
 
-Fire Emblem Heroes,Fate/Grand Order, Dragalia Lost, Azur Lane, Girls Frontline, Kantai Collection, Gran Blue Fantasy
+Fire Emblem Heroes, Fate/Grand Order, Dragalia Lost, Azur Lane, Girls Frontline, Kantai Collection, Gran Blue Fantasy
 
 1.6 - Recursos
 
-Actualmente, esperamos necesitar crear lo siguiente:
--No se necesitaran modelados debido a como funciona el juego; las unidades será representadas por imágenes estáticas, o sprites.
--Sonido del juego
--Interfaz del juego
--Sistema de combate
--Sistema de invocación de unidades
--Sistema de experiencia y habilidades
--Creación de las unidades
--Creación del sistema monetario
--Creación del sistema de fusión
+Actualmente, esperamos necesitar crear lo siguiente:     
+-No se necesitaran modelados debido a como funciona el juego; las unidades será representadas por imágenes estáticas, o sprites.    
+-Sonido del juego   
+-Interfaz del juego    
+-Sistema de combate    
+-Sistema de invocación de unidades    
+-Sistema de experiencia y habilidades    
+-Creación de las unidades    
+-Creación del sistema monetario    
+-Creación del sistema de fusión     
 
 1.7 - Tiempos
 
--Creación de los distintos tipos de sistemas: 2 meses
--Creación e inserción de las unidades: 2 semanas
--Creación del sistema de combate: 2 semanas
--Inserción del sonido
+-Creación de los distintos tipos de sistemas: 2 meses    
+-Creación e inserción de las unidades: 2 semanas     
+-Creación del sistema de combate: 2 semanas     
+-Inserción del sonido     
 
 2.1 - Nombre: Fighting Game
 
@@ -86,7 +86,7 @@ Juego de lucha lateral con modelos 3D.
 
 2.3 - Objetivo
 
-Creación de pantalla principal con botón de start; esta pantalla sirve simplemente para presentar el juego y como posible pantalla de carga si hubiera actualizaciones.
+Creación de pantalla principal con botón de start; esta pantalla sirve simplemente para presentar el juego y como posible pantalla de carga si hubiera actualizaciones.      
 Creación de un modo VS offline, donde poder jugar 1vs1. La pantalla de selección de personajes se incluirá en esta. A falta de conocer tiempo total necesario para programar,
 se planteará el plantel inicial con dos personajes y un escenario. Se deberá crear también una IA para poder jugar de manera individual. Se deberá también crear la 
 programación para poder programar dos jugadores al mismo tiempo. Programar el sistema de combate; cosas como que al hacer inputs concretos, se hagan ataques especiales.
@@ -101,16 +101,16 @@ Street Fighter VI, Soul Calibour VI, Smash Ultimate, Dragon Ball FighterZ
 
 2.6 - Recursos
 
-Modelos de los personajes
-Modelo del escenario
-Sonido (Menú, combate)
-Menú de selección
+-Modelos de los personajes     
+-Modelo del escenario      
+-Sonido (Menú, combate)     
+-Menú de selección     
 
 2.7 - Tiempos
 
-Creación de personajes - 3 meses
-Creación del engine de lucha - 2 meses
-Creación del engine de menus - 2 semanas
+-Creación de personajes - 3 meses     
+-Creación del engine de lucha - 2 meses     
+-Creación del engine de menus - 2 semanas      
 
 3.1 - Nombre: Platformer Game
 
@@ -133,14 +133,14 @@ Mario Odyssey, Spyro Reignited, Dead Cells, A Hat in Time
 
 3.6 - Recursos
 
--Creación del personaje con modelo   
--Creación del escenario
--Insercion del sonido
--Menú principal y de selección de nivel
+-Creación del personaje con modelo       
+-Creación del escenario     
+-Insercion del sonido     
+-Menú principal y de selección de nivel     
 
 3.7 - Tiempos
 
--Creación del personaje con modelo: 1 mes y medio
--Creación del escenario: 1 mes y medio
--Menús: 2 semanas
--Creación del engine de físicas: 1 mes
+-Creación del personaje con modelo: 1 mes y medio     
+-Creación del escenario: 1 mes y medio    
+-Menús: 2 semanas    
+-Creación del engine de físicas: 1 mes    
