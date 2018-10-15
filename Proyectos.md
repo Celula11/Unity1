@@ -33,6 +33,7 @@ Propuestas:
 Juego de android/pc basado en los juegos "gacha"; juegos donde los usuarios gastan monedas para conseguir los distintos personajes de forma aleatoria
 
 1.3 - Objetivo
+
 Creación de pantalla principal con botón de start; esta pantalla sirve simplemente para presentar el juego y como posible pantalla de carga si hubiera actualizaciones.
 
 Crear menú principal donde se muestran las unidades conseguidas, un pequeño modo de juego sencillo donde se usan las unidades, un menú donde sacar las unidades (de 8 a 16 unidades).
