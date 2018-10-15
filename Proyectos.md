@@ -4,24 +4,17 @@ Integrantes:
 
 1.-Ayrton
 
-Modelado: 7
-
-Animación: 6
-
-Programación en c: 4
-
-Manejo Unity: 0
+Modelado: 7   
+Animación: 6    
+Programación en c: 4    
+Manejo Unity: 0     
 
 2.-Abimael
 
-Modelado: 6
-
-Animación: 7
-
-Programación en c: 5
-
-Manejo Unity: 0
-
+Modelado: 6   
+Animación: 7    
+Programación en c: 5    
+Manejo Unity: 0    
 Unreal 4: 8
 
 Propuestas:
@@ -140,7 +133,7 @@ Mario Odyssey, Spyro Reignited, Dead Cells, A Hat in Time
 
 3.6 - Recursos
 
--Creación del personaje con modelo
+-Creación del personaje con modelo   
 -Creación del escenario
 -Insercion del sonido
 -Menú principal y de selección de nivel
